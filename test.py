@@ -4,3 +4,4 @@ print "this is branch of bug"
 print "one more thing.."
 print "push the brach to githug"
 
+print 'hello from mac'
